@@ -74,3 +74,4 @@ if (lane == "Jungle" or lane == "JG" or lane == "Jg" or lane == "jg" or lane == 
     print("Dishonor on you and your family you skilless pumpkin eater")
 else:
     print("You're alright IG, maybe pick a better lane/champ..")
+    
